@@ -34,9 +34,21 @@ public class ArrayDemo {
         }
 
         /*
-        * 3. Traversing an array (Simply put, it is just going to each and every location once)
-        * We can use a simple for loop to do this.
-        * */
+         * 3. Traversing an array (Simply put, it is just going to each and every location once)
+         * We can use a simple for loop to do this.
+         * */
+        for (int i = 0; i < array.length; i++) {
+            System.out.println("index: " + i + ", value: " + array[i]);
+        }
+
+        /*
+         * We can also call the printIntegerArrayValues() method to print the elements of an array.
+         * */
+        printIntegerArrayValues(array);
+    }
+
+    private static void printIntegerArrayValues(int[] array) {
+        System.out.println("Printed from method!");
         for (int i = 0; i < array.length; i++) {
             System.out.println("index: " + i + ", value: " + array[i]);
         }
