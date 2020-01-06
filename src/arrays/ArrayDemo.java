@@ -22,11 +22,11 @@ public class ArrayDemo {
         int[] array = new int[10];
 
         /*
-        * 2. How to insert values in an array
-        * SIMPLE! WE USE A LOOP
-        * For simplicity, this example uses a for loop.
-        * Notice how the loop runs till the `length` of the loop
-        * */
+         * 2. How to insert values in an array
+         * SIMPLE! WE USE A LOOP
+         * For simplicity, this example uses a for loop.
+         * Notice how the loop runs till the `length` of the loop
+         * */
         for (int i = 0; i < array.length; i++) {
             array[i] = (i + 1);
             // here, we are setting the value of all the elements of the array
