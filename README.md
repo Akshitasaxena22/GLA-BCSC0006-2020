@@ -9,6 +9,6 @@
 #### 2. Data Structures & Algorithms in Java, Robert Lafore, SAMS Publication    
 
 ## Syllabus  
-#### TBA  
+![syllabus](./syllabus/syllabus_BCSC0006.png)The syllabus uploaded on the University's website.   
 
 > Divyansh Bhardwaj, 2019 MIT License  
