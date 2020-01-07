@@ -11,4 +11,4 @@
 ## Syllabus  
 ![syllabus](./syllabus/syllabus_BCSC0006.png)The syllabus uploaded on the University's website.   
 
-> Divyansh Bhardwaj, 2019 MIT License  
+> Divyansh Bhardwaj, 2020 MIT License  
